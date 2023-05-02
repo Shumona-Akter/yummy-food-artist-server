@@ -11,10 +11,17 @@ app.get('/', (req, res) => {
   res.send(chefData)
 })
 
-app.get('/:id', (req, res) =>{
+app.get('/chef', (req, res) => {
+  res.send(detailsData)
+})
+
+
+
+app.get('/chef/:id', (req, res) =>{
   const id = parseInt(req.params.id)
-  const details = detailsData.find(n=> parseInt(n._id) === id)
+  const details = detailsData.find(n=> parseInt(n.id) === id)
   res.send(details)
+  // res.send(detailsData)
 })
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
