@@ -2,7 +2,7 @@
     { 
       "id": 1,
       "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683025778~exp=1683026378~hmac=0fa81314e42265c0d994198b70c73f54b9646ed169c97a193d04793a05e2596a", 
-      "chefName": "Alice Smith", 
+      "chefName": "Chef Nooror Somany Steppe", 
       "yearsOfExperience": 10, 
       "numberOfRecipes": 50, 
       "totalLikes": 1000 
@@ -10,7 +10,7 @@
     { 
         "id": 2,
       "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683025816~exp=1683026416~hmac=6a371808cbed5eeba9274d165020b9181e9d5523ab0fb2c5d039cf78b9e57aac", 
-      "chefName": "Bob Johnson", 
+      "chefName": "Chef McDang", 
       "yearsOfExperience": 5, 
       "numberOfRecipes": 20, 
       "totalLikes": 500 
@@ -18,7 +18,7 @@
     { 
         "id": 3,
       "chefPicture": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?w=740&t=st=1683025865~exp=1683026465~hmac=077bab2f2fd6338306babd48f802171082741f5925a0ff8afba0cbcad928a035", 
-      "chefName": "Charlie Brown", 
+      "chefName": "Chef McDang", 
       "yearsOfExperience": 20, 
       "numberOfRecipes": 100, 
       "totalLikes": 2000 
@@ -26,7 +26,7 @@
     { 
         "id": 4,
       "chefPicture": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg?w=740&t=st=1683025896~exp=1683026496~hmac=08b5219433f453fa3576f4566fba920475265c1a89739377722a7b710a8a60c0", 
-      "chefName": "David Lee", 
+      "chefName": "Chef Thitid Tassanakajohn (Chef Ton)", 
       "yearsOfExperience": 3, 
       "numberOfRecipes": 10, 
       "totalLikes": 100 
@@ -34,7 +34,7 @@
     { 
         "id": 5,
       "chefPicture": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?w=740", 
-      "chefName": "Emily Chen", 
+      "chefName": "Chef Pim Techamuanvivit", 
       "yearsOfExperience": 8, 
       "numberOfRecipes": 30, 
       "totalLikes": 700 
@@ -42,7 +42,7 @@
     { 
         "id": 6,
       "chefPicture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683025968~exp=1683026568~hmac=65ecbbdb005a4a3cc3cb9bef54a73554877aec504be90addc45e9fb7eb356084", 
-      "chefName": "Frank Rodriguez", 
+      "chefName": "Chef Duangporn Songvisava", 
       "yearsOfExperience": 15, 
       "numberOfRecipes": 70, 
       "totalLikes": 1500 

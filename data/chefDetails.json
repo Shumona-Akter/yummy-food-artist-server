@@ -2,83 +2,69 @@
     { 
       "id": 1,
       "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683025778~exp=1683026378~hmac=0fa81314e42265c0d994198b70c73f54b9646ed169c97a193d04793a05e2596a", 
-      "chefName": "Alice Smith", 
+      "chefName": "Chef Nooror Somany Steppe", 
       "yearsOfExperience": 10, 
       "numberOfRecipes": 50, 
       "totalLikes": 1000 ,
-      "shortBio":"A celebrity chef and television personality from the UK known for his fiery temperament and Michelin-starred restaurants. He has hosted several cooking shows, including 'Hell's Kitchen' and 'MasterChef.'",
+      "shortBio":" She is a well-known Thai chef and the co-founder of the Blue Elephant Group, which has several Thai restaurants around the world. Born in Bangkok, she developed her passion for cooking from her mother and grandmother. She has received several awards for her culinary skills and has even cooked for royalty'",
       "totalRecipes":{
-        "recipes": [
-          {
+        "recipes": {
+          "recipe1": {
             "name": "Tom Kha Gai",
-            "ingredients": 
-              "1 can coconut milk ,1 cup chicken broth , 1 lemongrass stalk,1 lemongrass stalk, 2-3 kaffir lime leaves, 1-2 Thai bird's eye chilies, 1-2 garlic cloves, 1-2 inch piece of galangal, 1-2 chicken breasts, 1-2 tablespoons fish sauce,1-2 tablespoons lime juice, 1 handful of fresh cilantro leaves ",
-             
-            "cooking_method": 
-              "In a pot, bring coconut milk and chicken broth to a simmer. Add lemongrass, kaffir lime leaves, chilies, and garlic. Add galangal and chicken breasts, and simmer until chicken is cooked. Season with fish sauce and lime juice, and garnish with cilantro leaves.",
-              
-            "rating": 4.8
+            "ingredients": "coconut milk, chicken, galangal, lemongrass, kaffir lime leaves, mushrooms",
+            "cooking_method": "1. Boil coconut milk, galangal, and lemongrass in a pot. 2. Add chicken and mushrooms. 3. Add kaffir lime leaves and simmer. 4. Serve hot.",
+            "rating": 4.5,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
           },
-          {
-            "name": "Pad Thai",
-            "ingredients":
-              "8 oz. rice noodles, 1-2 chicken breasts, 1-2 tablespoons oil, 1-2 shallots, 1-2 garlic cloves, 1-2 eggs, 1-2 tablespoons fish sauce, 1-2 tablespoons sugar, 1-2 tablespoons tamarind paste, 1 cup bean sprouts, 1/4 cup peanuts, 1/4 cup chopped fresh cilantro",
-              
-            "cooking_method": 
-              "Soak the rice noodles in warm water until softened. Cook the chicken in a pan with oil, shallots, and garlic. Push the chicken to the side and scramble the eggs in the same pan. Add the rice noodles, fish sauce, sugar, and tamarind paste, and stir-fry until well-combined. Add the bean sprouts and peanuts, and stir-fry for an additional minute.Garnish with cilantro and lime wedges.",
-            "rating": 4.6
+          "recipe2": {
+            "name": "Pad See Ew",
+            "ingredients": "wide rice noodles, chicken, eggs, soy sauce, oyster sauce, garlic",
+            "cooking_method": "1. Soak rice noodles in hot water until soft. 2. Fry garlic in a wok. 3. Add chicken and eggs. 4. Add noodles and sauces. 5. Serve hot.",
+            "rating": 4.2,
+            "img":"https://www.kitchensanctuary.com/wp-content/uploads/2019/06/Thai-Green-Curry-square-FS-500x500.jpg"
           },
-          {
-            "name": "Green Curry",
-            "ingredients": [
-              "1 can coconut milk",
-              "1-2 tablespoons green curry paste",
-              "1-2 chicken breasts",
-              "1-2 eggplants",
-              "1-2 bell peppers",
-              "1-2 tablespoons fish sauce",
-              "1-2 tablespoons palm sugar",
-              "1-2 kaffir lime leaves",
-              "1-2 Thai basil leaves"
-            ],
-            "cooking_method": [
-              "In a pot, bring coconut milk and green curry paste to a boil.",
-              "Add chicken, eggplants, bell peppers, and kaffir lime leaves, and simmer until chicken is cooked.",
-              "Season with fish sauce and palm sugar, and garnish with Thai basil leaves."
-            ],
-            "rating": 4.5
+          "recipe3": {
+            "name": "Massaman Curry",
+            "ingredients": "beef, potatoes, onions, peanuts, coconut milk, Massaman curry paste",
+            "cooking_method": "1. Boil beef and potatoes in a pot. 2. Fry onions and peanuts in a pan. 3. Add Massaman curry paste and coconut milk. 4. Add beef and potatoes. 5. Simmer and serve hot.",
+            "rating": 4.8,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
           }
-        ]
+        }
       }
       
     },
     { 
         "id": 2,
       "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683025816~exp=1683026416~hmac=6a371808cbed5eeba9274d165020b9181e9d5523ab0fb2c5d039cf78b9e57aac", 
-      "chefName": "Bob Johnson", 
+      "chefName": "Chef Ian Kittichai", 
       "yearsOfExperience": 5, 
       "numberOfRecipes": 20, 
       "totalLikes": 500 ,
-      "shortBio":"A pioneer of French cuisine in the US, Julia Child was a cookbook author and television host who popularized French cooking in America. She authored the famous cookbook 'Mastering the Art of French Cooking' and hosted the TV show 'The French Chef.'",
+      "shortBio":" He is a Thai chef who has made a name for himself globally. Born in Bangkok, he has worked in several high-end restaurants in Thailand and abroad. He is known for his innovative Thai cuisine and has even authored several cookbooks.'",
       "totalRecipes":{
         "recipes": {
           "recipe1": {
             "name": "Tom Yum Soup",
             "ingredients": "shrimp, mushrooms, lemongrass, kaffir lime leaves, chili peppers",
             "cooking_method": "1. Bring chicken stock to a boil. Add lemongrass and kaffir lime leaves and simmer for 5 minutes. 2. Add mushrooms and cook for 2-3 minutes. 3. Add shrimp and chili peppers and cook for 2-3 minutes or until shrimp are cooked. 4. Season with fish sauce and lime juice. Serve hot.",
-            "rating": 4.5
+            "rating": 4.5,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
+            
           },
           "recipe2": {
             "name": "Pad Thai",
             "ingredients": "rice noodles, chicken, bean sprouts, tofu, eggs, peanuts",
             "cooking_method": "1. Soak rice noodles in hot water for 10-15 minutes. 2. Heat oil in a wok and stir-fry chicken until cooked. 3. Add tofu, eggs, bean sprouts and drained rice noodles. 4. Stir-fry until the noodles are cooked. 5. Add peanuts and serve with lime wedges.",
-            "rating": 4.2
+            "rating": 4.2,
+            "img":"https://www.thespruceeats.com/thmb/pzUimcYMGDNqXleaQZkS8-cLPys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vegetarian-pad-thai-3217746-hero-01-5d1b70b6e9dd4d76a943a282b4843328.jpg"
           },
           "recipe3": {
             "name": "Green Curry",
             "ingredients": "chicken, green curry paste, coconut milk, eggplant, bamboo shoots",
             "cooking_method": "1. Heat oil in a wok and fry green curry paste until fragrant. 2. Add chicken and stir-fry until cooked. 3. Add coconut milk and bring to a boil. 4. Add eggplant and bamboo shoots and simmer until vegetables are tender. 5. Serve with rice.",
-            "rating": 4.7
+            "rating": 4.7,
+            "img":"https://www.kitchensanctuary.com/wp-content/uploads/2019/06/Thai-Green-Curry-square-FS-500x500.jpg"
           }
         }
       }
@@ -87,30 +73,33 @@
     { 
         "id": 3,
       "chefPicture": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?w=740&t=st=1683025865~exp=1683026465~hmac=077bab2f2fd6338306babd48f802171082741f5925a0ff8afba0cbcad928a035", 
-      "chefName": "Charlie Brown", 
+      "chefName": "Chef McDang", 
       "yearsOfExperience": 20, 
       "numberOfRecipes": 100, 
       "totalLikes": 2000,
-      "shortBio":"A chef, author, and television host, Anthony Bourdain was known for his adventurous spirit and love of global cuisine. He hosted several popular TV shows, including  'No Reservations' and 'Parts Unknown'" ,
+      "shortBio":"David Thompson, better known as Chef McDang, is a world-renowned chef who specializes in Thai cuisine. He was born in Australia and has spent several years in Thailand studying the country's culinary traditions. He has been awarded several prestigious awards for his contribution to Thai cuisine.popular TV shows, including  'No Reservations' and 'Parts Unknown'" ,
       "totalRecipes":{
         "recipes": {
           "recipe1": {
             "name": "Tom Kha Gai",
             "ingredients": "coconut milk, chicken, galangal, lemongrass, kaffir lime leaves, mushrooms",
             "cooking_method": "1. Boil coconut milk, galangal, and lemongrass in a pot. 2. Add chicken and mushrooms. 3. Add kaffir lime leaves and simmer. 4. Serve hot.",
-            "rating": 4.5
+            "rating": 4.5,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
           },
           "recipe2": {
             "name": "Pad See Ew",
             "ingredients": "wide rice noodles, chicken, eggs, soy sauce, oyster sauce, garlic",
             "cooking_method": "1. Soak rice noodles in hot water until soft. 2. Fry garlic in a wok. 3. Add chicken and eggs. 4. Add noodles and sauces. 5. Serve hot.",
-            "rating": 4.2
+            "rating": 4.2,
+            "img":"https://www.kitchensanctuary.com/wp-content/uploads/2019/06/Thai-Green-Curry-square-FS-500x500.jpg"
           },
           "recipe3": {
             "name": "Massaman Curry",
             "ingredients": "beef, potatoes, onions, peanuts, coconut milk, Massaman curry paste",
             "cooking_method": "1. Boil beef and potatoes in a pot. 2. Fry onions and peanuts in a pan. 3. Add Massaman curry paste and coconut milk. 4. Add beef and potatoes. 5. Simmer and serve hot.",
-            "rating": 4.8
+            "rating": 4.8,
+            "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Massaman-Curry_3.jpg?resize=650,910"
           }
         }
       }
@@ -119,30 +108,33 @@
     { 
         "id": 4,
       "chefPicture": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg?w=740&t=st=1683025896~exp=1683026496~hmac=08b5219433f453fa3576f4566fba920475265c1a89739377722a7b710a8a60c0", 
-      "chefName": "David Lee", 
+      "chefName": " Chef Thitid Tassanakajohn (Chef Ton)", 
       "yearsOfExperience": 3, 
       "numberOfRecipes": 10, 
       "totalLikes": 100 ,
-      "shortBio":": A celebrity chef and television personality, Rachael Ray has hosted several cooking shows, including '30 Minute Meals' and 'The Rachael Ray Show.'  She has authored several cookbooks and owns a line of cookware and kitchenware products." ,
+      "shortBio":"He is a Thai chef who has made a name for himself with his modern Thai cuisine. He was born in Bangkok and has worked in several Michelin-starred restaurants in Europe before returning to Thailand to open his own restaurant, Le Du. He is known for his use of local and sustainable ingredients and has received several accolades for his culinary skills." ,
       "totalRecipes":{
         "recipes": {
           "recipe1": {
             "name": "Papaya Salad (Som Tam)",
             "ingredients": "1 green papaya, 2 garlic cloves, 2-3 bird's eye chilies, 1/4 cup peanuts, 1 tbsp palm sugar, 2 tbsp fish sauce, 1 tbsp lime juice, 1 tbsp dried shrimp (optional), 2-3 cherry tomatoes",
             "cooking_method": "1. Peel and shred the green papaya using a shredder or a mandoline slicer. Set aside.\n2. In a mortar and pestle, pound the garlic and chilies together until they form a paste. Add the peanuts and lightly crush them.\n3. Add the palm sugar, fish sauce, and lime juice to the mortar and mix everything together.\n4. Add the shredded papaya and dried shrimp (if using) to the mortar and toss everything together until the papaya is coated in the sauce.\n5. Serve with sliced cherry tomatoes on top.",
-            "rating": 4.2
+            "rating": 4.2,
+            "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Massaman-Curry_3.jpg?resize=650,910"
           },
           "recipe2": {
             "name": "Thai Basil Chicken (Pad Krapow Gai)",
             "ingredients": "wide rice noodles, chicken, eggs, soy sauce, oyster sauce, garlic",
             "cooking_method": "1. Soak rice noodles in hot water until soft. 2. Fry garlic in a wok. 3. Add chicken and eggs. 4. Add noodles and sauces. 5. Serve hot.",
-            "rating": 4.2
+            "rating": 4.2,
+            "img":"https://www.kitchensanctuary.com/wp-content/uploads/2019/06/Thai-Green-Curry-square-FS-500x500.jpg"
           },
           "recipe3": {
             "name": "Massaman Curry",
             "ingredients": "1 lb ground chicken, 2 garlic cloves, 2-3 bird's eye chilies, 1 onion, 1 bell pepper, 1/2 cup basil leaves, 1 tbsp soy sauce, 1 tbsp oyster sauce, 1 tsp sugar, 2 tbsp oil",
             "cooking_method": "1. Peel and mince the garlic. Thinly slice the onion and bell pepper. Roughly chop the basil leaves.\n2. In a large skillet or wok, heat the oil over high heat. Add the garlic and chilies and stir-fry for 30 seconds.\n3. Add the ground chicken and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.\n4. Add the onion and bell pepper and stir-fry for an additional 2-3 minutes, until the vegetables are softened.\n5. Add the soy sauce, oyster sauce, and sugar to",
-            "rating": 4.8
+            "rating": 4.8,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
           }
         }
       }
@@ -150,30 +142,33 @@
     { 
         "id": 5,
       "chefPicture": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?w=740", 
-      "chefName": "Emily Chen", 
+      "chefName": "Chef Pim Techamuanvivit", 
       "yearsOfExperience": 8, 
       "numberOfRecipes": 30, 
       "totalLikes": 700 ,
-      "shortBio":": A chef and television personality, Emeril Lagasse is known for his bold, Creole-inspired cuisine and his catchphrase 'Bam' He has hosted several cooking shows, including 'Emeril Live' Essence of Emeril" ,
+      "shortBio":"She is a Thai chef and the owner of the Kin Khao restaurant in San Francisco. She was born in Bangkok and has worked in several high-end restaurants in Thailand and the United States. She is known for her modern take on traditional Thai cuisine and has even been featured in several publications." ,
       "totalRecipes":{
         "recipes": {
           "recipe1": {
             "name": "Tom Kha Gai",
             "ingredients": "coconut milk, chicken, galangal, lemongrass, kaffir lime leaves, mushrooms",
             "cooking_method": "1. Boil coconut milk, galangal, and lemongrass in a pot. 2. Add chicken and mushrooms. 3. Add kaffir lime leaves and simmer. 4. Serve hot.",
-            "rating": 4.5
+            "rating": 4.5,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
           },
           "recipe2": {
             "name": "Pad See Ew",
             "ingredients": "wide rice noodles, chicken, eggs, soy sauce, oyster sauce, garlic",
             "cooking_method": "1. Soak rice noodles in hot water until soft. 2. Fry garlic in a wok. 3. Add chicken and eggs. 4. Add noodles and sauces. 5. Serve hot.",
-            "rating": 4.2
+            "rating": 4.2,
+            "img":"https://www.kitchensanctuary.com/wp-content/uploads/2019/06/Thai-Green-Curry-square-FS-500x500.jpg"
           },
           "recipe3": {
             "name": "Massaman Curry",
             "ingredients": "beef, potatoes, onions, peanuts, coconut milk, Massaman curry paste",
             "cooking_method": "1. Boil beef and potatoes in a pot. 2. Fry onions and peanuts in a pan. 3. Add Massaman curry paste and coconut milk. 4. Add beef and potatoes. 5. Simmer and serve hot.",
-            "rating": 4.8
+            "rating": 4.8,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
           }
         }
       }
@@ -181,30 +176,33 @@
     { 
         "id": 6,
       "chefPicture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683025968~exp=1683026568~hmac=65ecbbdb005a4a3cc3cb9bef54a73554877aec504be90addc45e9fb7eb356084", 
-      "chefName": "Frank Rodriguez", 
+      "chefName": "Chef Duangporn Songvisava", 
       "yearsOfExperience": 15, 
       "numberOfRecipes": 70, 
       "totalLikes": 1500 ,
-      "shortBio":": A cookbook author and television host, Ina Garten is known for her simple yet elegant approach to cooking. She has authored several cookbooks and hosted the popular cooking show'Barefoot Contessa.'",
+      "shortBio":":  She is a Thai chef and the co-owner of the Bo.lan restaurant in Bangkok. She has a degree in microbiology and worked in the pharmaceutical industry before becoming a chef. She is known for her use of traditional Thai ingredients and cooking techniques to create unique and flavorful dishes.'",
       "totalRecipes":{
         "recipes": {
           "recipe1": {
             "name": "Tom Kha Gai",
             "ingredients": "coconut milk, chicken, galangal, lemongrass, kaffir lime leaves, mushrooms",
             "cooking_method": "1. Boil coconut milk, galangal, and lemongrass in a pot. 2. Add chicken and mushrooms. 3. Add kaffir lime leaves and simmer. 4. Serve hot.",
-            "rating": 4.5
+            "rating": 4.5,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
           },
           "recipe2": {
             "name": "Pad See Ew",
             "ingredients": "wide rice noodles, chicken, eggs, soy sauce, oyster sauce, garlic",
             "cooking_method": "1. Soak rice noodles in hot water until soft. 2. Fry garlic in a wok. 3. Add chicken and eggs. 4. Add noodles and sauces. 5. Serve hot.",
-            "rating": 4.2
+            "rating": 4.2,
+            "img":"https://www.kitchensanctuary.com/wp-content/uploads/2019/06/Thai-Green-Curry-square-FS-500x500.jpg"
           },
           "recipe3": {
             "name": "Massaman Curry",
             "ingredients": "beef, potatoes, onions, peanuts, coconut milk, Massaman curry paste",
             "cooking_method": "1. Boil beef and potatoes in a pot. 2. Fry onions and peanuts in a pan. 3. Add Massaman curry paste and coconut milk. 4. Add beef and potatoes. 5. Simmer and serve hot.",
-            "rating": 4.8
+            "rating": 4.8,
+            "img":"https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg"
           }
         }
       }
